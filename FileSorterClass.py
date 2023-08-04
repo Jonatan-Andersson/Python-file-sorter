@@ -6,7 +6,6 @@ import random
 
 
 DEV_DEBUG = False
-
 DEBUG = True
 
 PATH_TO_TARGET_FOLDER = '/Users/<computer_username>/Desktop'
