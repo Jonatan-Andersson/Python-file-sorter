@@ -9,7 +9,7 @@ DEV_DEBUG = False
 
 DEBUG = True
 
-PATH_TO_TARGET_FOLDER = '/Users/jonatanandersson/Desktop'
+PATH_TO_TARGET_FOLDER = '/Users/<computer_username>/Desktop'
 TIME_BETWEEN_SORT  = 60*60
 AMOUNT_OF_REPLICA_FILES = 300000
 
